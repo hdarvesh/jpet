@@ -1,4 +1,1 @@
-# JPETSTORE# jpetstore
-#This is a Jpet store application repository#
-
-#thanks#
+this is simple jpet apllication
